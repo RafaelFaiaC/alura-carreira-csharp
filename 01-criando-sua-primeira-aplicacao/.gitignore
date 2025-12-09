@@ -1,0 +1,6 @@
+# .NET Core build folders
+bin/
+obj/
+
+# Visual Studio temporary files, settings, and cache
+.vs/
