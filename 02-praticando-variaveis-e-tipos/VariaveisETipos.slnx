@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="AumentoSalario/AumentoSalario.csproj" Id="1c58d495-aea6-48c8-95c6-411a3314cf73" />
+  <Project Path="CalculandoAreaPerimetro/CalculandoAreaPerimetro.csproj" Id="830ea532-4460-4637-a714-1ce05c83af4c" />
+  <Project Path="CalculandoAreaRetangulo/CalculandoAreaRetangulo.csproj" Id="d4a78fa8-412e-4574-a56c-7278919d7801" />
+  <Project Path="CalculandoIdade/CalculandoIdade.csproj" />
+  <Project Path="ControleVidasJogo/ControleVidasJogo.csproj" Id="812b721a-a08d-4f11-8a03-5029ab10ad9a" />
+  <Project Path="ConvertendoDistancias/ConvertendoDistancias.csproj" Id="8d50b5e0-3640-4edf-a460-98fc602a8936" />
+  <Project Path="ConvertendoHorasParaMinutos/ConvertendoHorasParaMinutos.csproj" Id="a6684d36-1f99-4138-aaac-55f42304ff9b" />
+  <Project Path="ConvertendoTipos/ConvertendoTipos.csproj" Id="f6db4f65-b8dd-49ba-beda-08554fcd1de5" />
+  <Project Path="MediaNotas/MediaNotas.csproj" Id="130ae4c3-b8cf-4a21-a4b3-5a66ec49c729" />
+  <Project Path="RegistroDoacoes/RegistroDoacoes.csproj" Id="97ee5ee2-a931-41ac-a165-e01732fae8db" />
+</Solution>
