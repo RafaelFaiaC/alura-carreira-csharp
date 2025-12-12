@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="AutenticacaoUsuario/AutenticacaoUsuario.csproj" Id="35807202-9a20-4c27-a598-e270d941fdcc" />
+  <Project Path="CalculadoraOperacoesBasicas/CalculadoraOperacoesBasicas.csproj" Id="f688b582-c7b6-425c-9358-836aec684433" />
+  <Project Path="ClassificacaoProdutos/ClassificacaoProdutos.csproj" Id="f62afbee-446f-47cb-9e07-500e1253b1e3" />
+  <Project Path="ClassificandoFaixaEtaria/ClassificandoFaixaEtaria.csproj" Id="47b137b8-14cd-49d7-9627-f517994a4635" />
+  <Project Path="ClassificandoNotaAluno/ClassificandoNotaAluno.csproj" Id="f4248e87-74e2-4ece-9c75-157e94972245" />
+  <Project Path="RefatorandoOrganizacaoLivros/RefatorandoOrganizacaoLivros.csproj" Id="4d5f5c8e-f5b7-47cb-bba7-3a31177670a1" />
+  <Project Path="SistemaRecompensas/SistemaRecompensas.csproj" Id="76f86395-9009-4f85-aebf-f8d2b9ecd6ca" />
+  <Project Path="VerificandoAcessoAreaRestrita/VerificandoAcessoAreaRestrita.csproj" Id="f17053f2-d954-49bf-aa62-d2eb46581445" />
+  <Project Path="VerificandoSaldoConta/VerificandoSaldoConta.csproj" Id="18ac6f1b-9427-465d-856a-d0e23330b400" />
+</Solution>
