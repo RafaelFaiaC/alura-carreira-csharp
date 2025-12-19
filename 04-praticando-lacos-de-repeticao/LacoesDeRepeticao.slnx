@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="BuscandoEmLista/BuscandoEmLista.csproj" Id="158c3efd-3071-4881-af88-cb1ea7b7f111" />
+  <Project Path="ClassificacaoNumeros/ClassificacaoNumeros.csproj" Id="fc469070-89b8-446f-a281-37bc28a9bef3" />
+  <Project Path="ControleEstoque/ControleEstoque.csproj" Id="1756fe87-dac7-404a-a99b-adc11e7e4d52" />
+  <Project Path="ConversorTemperatura/ConversorTemperatura.csproj" Id="b6b656b9-db91-4895-8362-1a0c2ac6b6cc" />
+  <Project Path="LacoCertoParaProblema/LacoCertoParaProblema.csproj" Id="98da3539-de6a-4984-a048-e71c2b23435d" />
+  <Project Path="NumeroSecreto/NumeroSecreto.csproj" Id="e7409fb4-7dbd-44b6-8410-3ea2b7c7cc48" />
+  <Project Path="PulandoNumeros/PulandoNumeros.csproj" Id="492a9e7f-be41-4b11-8426-e842f97509ee" />
+  <Project Path="QuantosImparesDigitados/QuantosImparesDigitados.csproj" Id="22625c88-49d2-42ba-9d5b-8d3409c9ac9c" />
+  <Project Path="SenhasAtendimento/SenhasAtendimento.csproj" Id="413e5017-5d60-497d-92e8-6c6b56a6fadc" />
+  <Project Path="SomaVendas/SomaVendas.csproj" Id="26ae22d7-18b7-4516-a8b8-32c3ed04b355" />
+  <Project Path="TabelaMultiplicacao/TabelaMultiplicacao.csproj" Id="c938ba1a-2c99-47df-98cc-734d72447e14" />
+</Solution>
