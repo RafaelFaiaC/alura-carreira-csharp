@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="AgendamentoMedico/AgendamentoMedico.csproj" Id="88da130c-c72f-420d-a41c-7788f10220d0" />
+  <Project Path="CadastroLivrosBiblioteca/CadastroLivrosBiblioteca.csproj" />
+  <Project Path="ContaBancaria/ContaBancaria.csproj" Id="62af65f3-edef-45d7-ad6b-05ff6c200487" />
+  <Project Path="ControleEstoque/ControleEstoque.csproj" Id="3077b736-e8c2-43fe-bbbd-697969ac8c57" />
+  <Project Path="EmissaoPassagemViagem/EmissaoPassagemViagem.csproj" Id="11c56cf0-ef87-485b-a764-0c3ac3a85ec0" />
+  <Project Path="GerenciamentoFuncionarios/GerenciamentoFuncionarios.csproj" Id="da1d830f-bc5f-4ff2-beca-1fc86e6269ed" />
+  <Project Path="PedidoCompra/PedidoCompra.csproj" Id="4e82c53c-6584-4dba-8617-f0e5641af2ec" />
+  <Project Path="ProdutoDigital/ProdutoDigital.csproj" Id="d81b8f55-c164-4327-bfad-71d2f0cbcc01" />
+  <Project Path="RetanguloCalculoArea/RetanguloCalculoArea.csproj" Id="884a6e32-4b5c-4912-ab1b-dd3d22b786d4" />
+  <Project Path="ValidacaoAcessoFilmes/ValidacaoAcessoFilmes.csproj" Id="192e71b8-68a8-442b-b9cd-ce973412afe1" />
+</Solution>
