@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="CadastroFuncionarios/CadastroFuncionarios.csproj" Id="cfcead0f-0835-478f-9022-1a183115b33a" />
+  <Project Path="CatalogacaoItens/CatalogacaoItens.csproj" Id="c4c7debf-3ced-4744-b32a-55ffe55fd468" />
+  <Project Path="CertificadoProfissoes/CertificadoProfissoes.csproj" Id="56e7b0f7-6358-46ac-977c-7685d7784b3f" />
+  <Project Path="DadosPassageiros/DadosPassageiros.csproj" Id="330dcf82-123d-45db-9dec-8328f4b2b8b8" />
+  <Project Path="DispositivosSensores/DispositivosSensores.csproj" Id="df03861e-e46c-4311-92d4-7e1b46fb8f37" />
+  <Project Path="GestaoServicos/GestaoServicos.csproj" Id="131e51d3-5381-4c3a-9080-27961ec279d2" />
+  <Project Path="MontagemComputadores/MontagemComputadores.csproj" Id="7f601546-1c33-4fa8-bb52-0ae1467674af" />
+  <Project Path="PlataformaCursos/PlataformaCursos.csproj" Id="8ec13edb-0497-4f25-9b15-7ce6b0d6e57d" />
+  <Project Path="RegistroClientes/RegistroClientes.csproj" />
+  <Project Path="SistemaPagamentos/SistemaPagamentos.csproj" Id="c5c1e5e6-833b-4f96-9a81-6afbf69d664a" />
+</Solution>
