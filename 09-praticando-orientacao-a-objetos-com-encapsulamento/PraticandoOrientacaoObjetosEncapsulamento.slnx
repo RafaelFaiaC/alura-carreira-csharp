@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="AgendaControleContatosDuplicados/AgendaControleContatosDuplicados.csproj" Id="f75dbda9-212d-45fa-ba4a-09ecd5aebbc7" />
+  <Project Path="ControleAcesso/ControleAcesso.csproj" Id="d730cf49-95f2-4a3d-b991-9228d89d3051" />
+  <Project Path="ControleMatricula/ControleMatricula.csproj" Id="46de81d5-100a-4ae4-a1e2-54d3c6d94ffb" />
+  <Project Path="ControleTarefas/ControleTarefas.csproj" Id="07dd3890-e9fa-4ffb-ba2f-eee1cf298a12" />
+  <Project Path="ControleVelocidade/ControleVelocidade.csproj" />
+  <Project Path="EncapsulandoReajusteSalario/EncapsulandoReajusteSalario.csproj" Id="2f45580b-0263-4269-959e-818036c7611e" />
+  <Project Path="SistemaReservasHotel/SistemaReservasHotel.csproj" Id="cd380f08-feb4-410b-abba-f9d81b2b041c" />
+  <Project Path="SituacaoEstudanteMedia/SituacaoEstudanteMedia.csproj" Id="11c42378-98cf-4d8f-8278-0bb300282cf9" />
+  <Project Path="ValidacaoNotaMinima/ValidacaoNotaMinima.csproj" Id="87d70935-b6dd-4719-b42c-0a938001347b" />
+  <Project Path="ValidacaoSaque/ValidacaoSaque.csproj" Id="aba10948-e549-4617-9d07-6ee1988cf85e" />
+</Solution>
