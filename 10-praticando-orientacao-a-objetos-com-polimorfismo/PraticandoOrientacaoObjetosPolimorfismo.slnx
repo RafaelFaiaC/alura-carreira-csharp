@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="AcoesBotoesInterfaceGrafica/AcoesBotoesInterfaceGrafica.csproj" Id="047e1408-c079-4546-a0fc-101124cc8a37" />
+  <Project Path="AvaliacaoConteudosPlataforma/AvaliacaoConteudosPlataforma.csproj" Id="480e0093-dca1-4694-ad3e-e8163a0528dd" />
+  <Project Path="CalculadoraSobrecargaMetodos/CalculadoraSobrecargaMetodos.csproj" />
+  <Project Path="CalculoJurosPerfisEmprestimo/CalculoJurosPerfisEmprestimo.csproj" Id="b42c36d8-7813-40e8-bc4c-1caa78f02574" />
+  <Project Path="ExecucaoTarefasAgendadas/ExecucaoTarefasAgendadas.csproj" Id="a1472dcd-fe63-4ab9-acc8-9aa1fd0d0cd0" />
+  <Project Path="ExibindoMidias/ExibindoMidias.csproj" Id="e9a65f36-e248-4f81-8fd4-f9f75fd2c2bf" />
+  <Project Path="NotificacoesSistema/NotificacoesSistema.csproj" Id="9b6b5908-0dca-4ec1-b6ef-0d5c22c29667" />
+  <Project Path="RelatorioFuncionarios/RelatorioFuncionarios.csproj" Id="4d18d309-7399-4c89-a1e0-685daa3fbe80" />
+  <Project Path="ReservasExperiencias/ReservasExperiencias.csproj" Id="cc4777ef-8943-408a-8eae-643c9e833913" />
+  <Project Path="SimuladorTransporteUrbano/SimuladorTransporteUrbano.csproj" Id="b85dc381-f475-4ab6-958a-f47b8edeb43c" />
+</Solution>
