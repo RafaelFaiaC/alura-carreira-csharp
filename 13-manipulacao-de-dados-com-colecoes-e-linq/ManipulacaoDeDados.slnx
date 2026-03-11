@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="01-IntroducaoAColecoes/01-IntroducaoAColecoes.csproj" />
+  <Project Path="02-OperacoesEmColecoes/02-OperacoesEmColecoes.csproj" Id="aea5c5db-e862-489f-90c8-599202784bd0" />
+  <Project Path="03-AbstraindoAFonteDeDados/03-AbstraindoAFonteDeDados.csproj" Id="4f2aebe7-29b2-44ec-acd2-c06f9c46656c" />
+  <Project Path="04-LINQ/04-LINQ.csproj" Id="d4163cad-a346-4ed2-a408-4382b2eee8fa" />
+  <Project Path="05-Strings/05-Strings.csproj" Id="c0ba92ff-78e9-47b0-9a9d-a85a3c851921" />
+  <Project Path="06-ExpressoesRegulares/06-ExpressoesRegulares.csproj" Id="16c420fa-052d-4c33-8bb1-9f4c7f2a6054" />
+  <Project Path="07-Serializacao/07-Serializacao.csproj" Id="e45c788a-ef5d-496a-8cad-eaacad6a73da" />
+</Solution>
