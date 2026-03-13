@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ConsolidandoListasProdutos/ConsolidandoListasProdutos.csproj" Id="7b43f0a7-fa9e-424f-9fc5-84bb04c54610" />
+  <Project Path="DesvendandoCodigo/DesvendandoCodigo.csproj" Id="e843ea77-e36d-40c3-8e64-f1adb12e5732" />
+  <Project Path="GerenciandoItensInventario/GerenciandoItensInventario.csproj" Id="b318e5ff-925c-40f0-aa17-27d3a1da2ee5" />
+  <Project Path="ListandoAlunos/ListandoAlunos.csproj" Id="7079b5e6-ad76-457c-a1ae-baafc3d0ea66" />
+  <Project Path="ManipulandoDicionarios/ManipulandoDicionarios.csproj" Id="fcf66452-a728-4fe4-9d08-25165430c429" />
+  <Project Path="ManipulandoListas/ManipulandoListas.csproj" Id="70b485da-3c96-4fdc-9a94-409f2f1b5b24" />
+  <Project Path="OrdenacaoListas/OrdenacaoListas.csproj" Id="ad948460-580e-419e-8340-66c3446fda6b" />
+  <Project Path="OrganizandoElementosUnicos/OrganizandoElementosUnicos.csproj" Id="01c4e70f-39d9-4054-b999-6ce7896d6b16" />
+  <Project Path="RevelandoMensagens/RevelandoMensagens.csproj" Id="80748784-55ed-4450-9bd4-32df1a4fe58f" />
+  <Project Path="SomaValoresArray/SomaValoresArray.csproj" />
+</Solution>
