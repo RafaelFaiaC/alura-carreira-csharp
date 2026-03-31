@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ContandoCaracteres/ContandoCaracteres.csproj" Id="c4ba1f66-aef5-4867-a274-4277a7b77e93" />
+  <Project Path="DividindoString/DividindoString.csproj" Id="23f93445-780f-4ec7-a51b-ea42c5b39344" />
+  <Project Path="EncontrandoPalavrasChave/EncontrandoPalavrasChave.csproj" />
+  <Project Path="ExtraindoValorMoeda/ExtraindoValorMoeda.csproj" Id="4b21c5e9-096c-4bfc-acf7-1d9913c2d600" />
+  <Project Path="FormatandoRelatorio/FormatandoRelatorio.csproj" Id="a62ddf51-b742-4322-bb99-d2fd62286bad" />
+  <Project Path="PadronizandoAlertasMaiusculas/PadronizandoAlertasMaiusculas.csproj" Id="e2eb42d8-c65b-4566-b17b-fe51b621ff29" />
+  <Project Path="SubstituindoEspacosBranco/SubstituindoEspacosBranco.csproj" Id="a2cd55a8-a768-4753-8728-5aacaafee6a4" />
+  <Project Path="SubstituindoLinks/SubstituindoLinks.csproj" Id="ccdfa21f-ec06-40a0-9505-71895bd39ae3" />
+  <Project Path="SubstituindoPalavrasFrase/SubstituindoPalavrasFrase.csproj" Id="4942cbe1-2b22-4b8e-991a-14665ad3f744" />
+  <Project Path="ValidandoDatas/ValidandoDatas.csproj" Id="0928ed45-6629-411f-b776-29dddde1f639" />
+  <Project Path="VerificandoStringsNumericas/VerificandoStringsNumericas.csproj" Id="658b3976-c4c3-46d9-a22a-eb71809fa82a" />
+</Solution>
