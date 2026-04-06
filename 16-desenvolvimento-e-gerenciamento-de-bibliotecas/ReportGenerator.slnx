@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Itens de Solução/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ConsoleReport/ConsoleReport.csproj" Id="c89fa329-8697-4bc2-9b74-7a424814e6ae" />
+  <Project Path="ReportGenerator/ReportGenerator.csproj" />
+</Solution>
